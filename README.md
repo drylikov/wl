@@ -42,5 +42,7 @@ Usage of wl:
 
 #### Common
 `foobar, foo_bar, fooBar, FooBar, FOOBAR, FOO_BAR`
+
+
 #### More
 `foo-bar, FOO-BAR, foo.bar, FOO.BAR, Foo.Bar, Foo_Bar, Foo-Bar, foo.Bar, foo.Bar, foo_Bar, foo-Bar`
