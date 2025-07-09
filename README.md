@@ -12,6 +12,8 @@
 ```
 
 Confused or something not working? Try [these instructions](https://github.com/drylikov/Smap/wiki/FAQ#how-do-i-install-smap) from my other tool's help section.
+
+
 ### Usage
 ```
 Usage of wl:
