@@ -8,7 +8,7 @@
 
 ### Installation
 
-```go install -v github.com/s0md3v/wl/cmd/wl@latest
+```go install -v github.com/drylikov/wl/cmd/wl@latest
 ```
 
 Confused or something not working? Try [these instructions](https://github.com/drylikov/wl/wiki/FAQ) from my other tool's help section.
